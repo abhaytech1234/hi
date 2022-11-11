@@ -1,0 +1,13 @@
+{
+  "name": "realtime-chat-app-master",
+  "version": "1.0.0",
+  "description": "Realtime chat app using socket.io and vanilla JavaScript",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
